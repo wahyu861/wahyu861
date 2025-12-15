@@ -22,6 +22,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mkwhyd/mkwhyd/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wahyu861/wahyu861/output/snake.svg" alt="Snake animation" />
 
 ###
