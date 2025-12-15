@@ -20,18 +20,8 @@
 
 <h5 align="left">Play Games with me</h5>
 
-<<<<<<< HEAD
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkwhyd/mkwhyd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkwhyd/mkwhyd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mkwhyd/mkwhyd/output/pacman-contribution-graph.svg">
-</picture> -->
-
 ###
 
 <img src="https://raw.githubusercontent.com/mkwhyd/mkwhyd/output/snake.svg" alt="Snake animation" />
 
 ###
-=======
-<img src="https://raw.githubusercontent.com/mkwhyd/mkwhyd/output/snake.svg" alt="Snake animation" />
->>>>>>> b71d6b3fa96aa6063084130c79ee615d9e0a282a
